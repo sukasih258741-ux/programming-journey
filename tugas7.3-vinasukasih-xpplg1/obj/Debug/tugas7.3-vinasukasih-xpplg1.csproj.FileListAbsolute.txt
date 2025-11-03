@@ -1,0 +1,7 @@
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\bin\Debug\tugas7.3-vinasukasih-xpplg1.exe.config
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\bin\Debug\tugas7.3-vinasukasih-xpplg1.exe
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\bin\Debug\tugas7.3-vinasukasih-xpplg1.pdb
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\obj\Debug\tugas7.3-vinasukasih-xpplg1.csproj.AssemblyReference.cache
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\obj\Debug\tugas7.3-vinasukasih-xpplg1.csproj.CoreCompileInputs.cache
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\obj\Debug\tugas7.3-vinasukasih-xpplg1.exe
+D:\Vinaa PPLG 1\tugas7.3-vinasukasih-xpplg1\obj\Debug\tugas7.3-vinasukasih-xpplg1.pdb

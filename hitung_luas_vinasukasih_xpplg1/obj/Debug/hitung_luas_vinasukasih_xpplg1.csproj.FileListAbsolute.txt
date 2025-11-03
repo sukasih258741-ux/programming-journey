@@ -1,0 +1,8 @@
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\bin\Debug\hitung_luas_vinasukasih_xpplg1.exe.config
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\bin\Debug\hitung_luas_vinasukasih_xpplg1.exe
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\bin\Debug\hitung_luas_vinasukasih_xpplg1.pdb
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\obj\Debug\hitung_luas_vinasukasih_xpplg1.csproj.AssemblyReference.cache
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\obj\Debug\hitung_luas_vinasukasih_xpplg1.csproj.CoreCompileInputs.cache
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\obj\Debug\hitung_luas_vinasukasih_xpplg1.exe
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\obj\Debug\hitung_luas_vinasukasih_xpplg1.pdb
+D:\Vinaa PPLG 1\hitung_luas_vinasukasih_xpplg1\obj\Debug\hitung_luas_vinasukasih_xpplg1.exe.config
