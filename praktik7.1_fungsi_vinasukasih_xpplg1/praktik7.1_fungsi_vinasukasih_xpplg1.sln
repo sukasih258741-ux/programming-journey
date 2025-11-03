@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktik7.1_fungsi_vinasukasih_xpplg1", "praktik7.1_fungsi_vinasukasih_xpplg1.csproj", "{E7F8559C-F233-45F3-8F64-5BFA6D6BE56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F8559C-F233-45F3-8F64-5BFA6D6BE56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F8559C-F233-45F3-8F64-5BFA6D6BE56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F8559C-F233-45F3-8F64-5BFA6D6BE56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F8559C-F233-45F3-8F64-5BFA6D6BE56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6C552D-84A7-4655-9541-19C4C0DEFBD9}
+	EndGlobalSection
+EndGlobal
