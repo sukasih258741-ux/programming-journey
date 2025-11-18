@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\bin\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.exe.config
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\bin\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.exe
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\bin\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.pdb
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\obj\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\obj\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\obj\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.exe
+C:\Users\ACER\source\repos\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\Projek-Akhir-SmartFinance-vinasukasih-xpplg1\obj\Debug\Projek-Akhir-SmartFinance-vinasukasih-xpplg1.pdb
