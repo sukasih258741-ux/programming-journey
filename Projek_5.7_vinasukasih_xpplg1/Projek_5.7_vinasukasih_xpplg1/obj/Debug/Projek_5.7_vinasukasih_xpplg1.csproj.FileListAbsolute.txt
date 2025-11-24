@@ -1,0 +1,7 @@
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\bin\Debug\Projek_5.7_vinasukasih_xpplg1.exe.config
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\bin\Debug\Projek_5.7_vinasukasih_xpplg1.exe
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\bin\Debug\Projek_5.7_vinasukasih_xpplg1.pdb
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\obj\Debug\Projek_5.7_vinasukasih_xpplg1.csproj.AssemblyReference.cache
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\obj\Debug\Projek_5.7_vinasukasih_xpplg1.csproj.CoreCompileInputs.cache
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\obj\Debug\Projek_5.7_vinasukasih_xpplg1.exe
+D:\vina sukasih\Projek_5.7_vinasukasih_xpplg1\Projek_5.7_vinasukasih_xpplg1\obj\Debug\Projek_5.7_vinasukasih_xpplg1.pdb
