@@ -1,0 +1,39 @@
+/*Nama Warna*/
+.warna {
+    background-color:blue;
+    color:lightcyan;
+    padding: 10px;
+    margin: 5px;
+}
+
+/*RGB*/
+.rgb {
+background-color:rgb(226, 120, 226);
+color: aliceblue;
+padding: 10px;
+margin: 5px;
+}
+
+/*RGBA*/
+.rgba {
+    background-color:rgba(58, 8, 102, 0.6);
+    color:antiquewhite;
+    padding: 10px;
+    margin: 5px;
+}
+
+/*HSL*/
+.hsl {
+    background-color:hsl(240, 100%, 50%);
+    color:pink;
+    padding: 10px;
+    margin: 5px;
+}
+
+/*HSLA*/
+.hsla {
+    background-color:hsla(300, 100%, 50%, 0.5);
+    color:aliceblue;
+    padding: 10px;
+    margin: 5px;
+}
