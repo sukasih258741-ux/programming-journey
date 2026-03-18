@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Overflow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            background-color: #f6e6ff;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container {
+            width: 80%;
+            border-radius: auto;
+        }
+        .box {
+            width: 320px;
+            height: 130px;
+            border: 2px solid #555;
+            margin: 20px auto;
+            padding: 10px;
+            text-align: left;
+            background-color: #e8f8ff;
+            border-radius: 10px;
+        }
+        .visible {
+            overflow: visible;
+        }
+        .hidden {
+            overflow: hidden;
+        }
+        .scroll {
+            overflow: scroll;
+        }
+        .auto {
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contoh Penggunaan Overflow pada CSS</h1>
+
+    <div class="container">
+
+    <div class="box visible">
+        <h3>Article 1 - Overflow Visible</h3>
+        <p>
+            Overflow visible adalah nilai bawaan dari properti overflow pada CSS.
+            Jika isi konten lebih besar dari ukuran kotaknya, maka teks tersebut
+            tetap akan terlihat keluar dari batas kotak. Dengan cara ini semua
+            konten masih bisa dibaca walaupun melampaui ukuran elemen yang telah
+            ditentukan sebelumnya. Biasanya digunakan ketika kita tidak ingin
+            konten dipotong atau disembunyikan dari tampilan halaman web.
+        </p>
+    </div>
+
+    <div class="box hidden">
+        <h3>Article 2 - Overflow Hidden</h3>
+        <p>
+            Overflow hidden digunakan untuk menyembunyikan bagian konten yang
+            melebihi ukuran kotak elemen. Jika teks terlalu panjang dan tidak
+            muat di dalam kotak, maka bagian yang keluar tidak akan ditampilkan.
+            Cara ini sering digunakan agar tampilan halaman web tetap rapi dan
+            tidak berantakan karena teks yang terlalu panjang atau elemen yang
+            melebihi ukuran yang telah ditentukan.
+        </p>
+    </div>
+
+    <div class="box scroll">
+        <h3>Article 3 - Overflow Scroll</h3>
+        <p>
+            Overflow scroll akan menambahkan scrollbar pada elemen sehingga
+            pengguna dapat menggulir isi konten yang tidak terlihat. Scrollbar
+            biasanya muncul di bagian samping kotak dan memungkinkan pengguna
+            membaca seluruh isi teks dengan cara menggulir ke atas atau ke bawah.
+            Dengan cara ini seluruh informasi tetap tersedia walaupun ukuran
+            kotak lebih kecil dari isi kontennya.
+        </p>
+    </div>
+
+    <div class="box auto">
+        <h3>Article 4 - Overflow Auto</h3>
+        <p>
+            Overflow auto hampir sama dengan scroll, tetapi scrollbar hanya
+            akan muncul jika memang diperlukan. Jika konten masih cukup untuk
+            ditampilkan di dalam kotak, maka scrollbar tidak akan muncul.
+            Namun jika teks lebih panjang dari ukuran elemen, maka secara
+            otomatis scrollbar akan tampil agar pengguna tetap dapat melihat
+            dan membaca seluruh isi konten dengan mudah.
+        </p>
+    </div>
+
+</div>
+</body>
+</html>
