@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Tugas Z-Index</title>
+    <style>
+        .wadah {
+            position: relative;
+            width: 500px;
+            height: 300px;
+        }
+
+        .wadah img {
+            width: 200px;
+            position: absolute;
+        }
+
+        .gambar1 {
+            z-index: 3;
+        }
+
+        .gambar2 {
+            top: 150px;
+            left: 150px;
+            z-index: 2;
+        }
+
+        .gambar3 {
+            top: 300px;
+            left: 300px;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="wadah">
+        <img src="ohyul.jpg" class="gambar1">
+        <img src="ohyull imuttt.jpg" class="gambar2">
+        <img src="WhatsApp Image 2026-04-14 at 08.00.21.jpeg" class="gambar3">
+    </div>
+</body>
+</html>
